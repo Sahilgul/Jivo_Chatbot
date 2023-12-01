@@ -1,0 +1,4 @@
+Products = {
+    "Smart glass": "What it is - two pieces of glass and smart film laminated in between. Smart glass goes from transparent to opaque with the application of electrical current. What it is not - Smart glass is not the same as electro chromic glass or SPD glass and does not self-tint or go from clear to dark. Price per unit - $85- 130 per square foot",
+    "Smart Film": "what it is - Privacy film applied to existing windows, glass walls and doors to transform them into switchable glass. Smart film instantly goes from clear to private when powered on and off. What it is not - electro chromic window film, polarizing window film, blackout film, ordinary frosted film Price per unit - $35-45 per square foot"
+}

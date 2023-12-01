@@ -1,0 +1,2 @@
+2023-12-01 12:11:45,514 - INFO - Session created: 17e17a76-03da-4a9d-9faa-83a90e9e4f44
+2023-12-01 12:11:47,959 - INFO - error_code=invalid_api_key error_message='Incorrect API key provided: sk-0BxgK***************************************yGSp. You can find your API key at https://platform.openai.com/account/api-keys.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False

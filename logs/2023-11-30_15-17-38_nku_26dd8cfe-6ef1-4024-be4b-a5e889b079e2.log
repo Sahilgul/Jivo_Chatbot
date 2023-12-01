@@ -1,0 +1,63 @@
+2023-11-30 15:17:56,128 - INFO - Session created: 26dd8cfe-6ef1-4024-be4b-a5e889b079e2
+2023-11-30 15:19:45,144 - INFO - Session created: 8aaf8725-7678-424b-b04c-3d6f5e18f495
+2023-11-30 15:19:58,354 - INFO - Session created: 7d4fcec3-890a-4404-8ee4-b8d3eba3a2fc
+2023-11-30 15:20:03,960 - INFO - Session ID: 8aaf8725-7678-424b-b04c-3d6f5e18f495, Conversation Stage: ('1', 1062, 0.031889999999999995)
+2023-11-30 15:20:06,965 - INFO - Total cost 0.05510999999999999
+2023-11-30 15:20:06,965 - INFO - Total tokens 1813
+2023-11-30 15:20:06,966 - INFO - Total tokens 1813
+2023-11-30 15:20:06,966 - INFO - User nku queried: hello
+2023-11-30 15:20:06,966 - INFO - Response sent: Hello, could you please share your name, email, and phone number for our records? 
+2023-11-30 15:20:13,725 - INFO - Session ID: 7d4fcec3-890a-4404-8ee4-b8d3eba3a2fc, Conversation Stage: ('1', 1064, 0.03194999999999999)
+2023-11-30 15:20:17,261 - INFO - Total cost 0.11087999999999998
+2023-11-30 15:20:17,261 - INFO - Total tokens 3639
+2023-11-30 15:20:17,262 - INFO - Total tokens 3639
+2023-11-30 15:20:17,262 - INFO - User nku queried: asdsad
+2023-11-30 15:20:17,262 - INFO - Response sent: I'm sorry, I didn't quite catch that. Could you please provide your name, email, and phone number for our records? 
+2023-11-30 15:20:24,174 - INFO - Session ID: 7d4fcec3-890a-4404-8ee4-b8d3eba3a2fc, Conversation Stage: ('1', 1103, 0.03312)
+2023-11-30 15:20:26,020 - INFO - Total cost 0.16823999999999997
+2023-11-30 15:20:26,020 - INFO - Total tokens 5530
+2023-11-30 15:20:26,020 - INFO - Total tokens 5530
+2023-11-30 15:20:26,021 - INFO - User nku queried: hello
+2023-11-30 15:20:26,021 - INFO - Response sent: Hello! Could you please share your name, email, and phone number? 
+2023-11-30 15:20:29,400 - INFO - Session ID: 8aaf8725-7678-424b-b04c-3d6f5e18f495, Conversation Stage: ('2', 1093, 0.03282)
+2023-11-30 15:20:31,440 - INFO - Total cost 0.22697999999999996
+2023-11-30 15:20:31,441 - INFO - Total tokens 7470
+2023-11-30 15:20:31,441 - INFO - Total tokens 7470
+2023-11-30 15:20:31,441 - INFO - User nku queried: no
+2023-11-30 15:20:31,441 - INFO - Response sent: That's perfectly fine. How may I assist you today? 
+2023-11-30 15:20:34,098 - INFO - Session ID: 7d4fcec3-890a-4404-8ee4-b8d3eba3a2fc, Conversation Stage: ('1', 1131, 0.03395999999999999)
+2023-11-30 15:20:38,004 - INFO - Total cost 0.28631999999999996
+2023-11-30 15:20:38,005 - INFO - Total tokens 9421
+2023-11-30 15:20:38,005 - INFO - Total tokens 9421
+2023-11-30 15:20:38,005 - INFO - User nku queried: bye
+2023-11-30 15:20:38,005 - INFO - Response sent: I understand. However, could you please provide your name, email, and phone number before we proceed? 
+2023-11-30 15:20:40,769 - INFO - Session ID: 26dd8cfe-6ef1-4024-be4b-a5e889b079e2, Conversation Stage: ('1', 1062, 0.031889999999999995)
+2023-11-30 15:20:42,582 - INFO - Total cost 0.34118999999999994
+2023-11-30 15:20:42,583 - INFO - Total tokens 11230
+2023-11-30 15:20:42,583 - INFO - Total tokens 11230
+2023-11-30 15:20:42,583 - INFO - User nku queried: Hi
+2023-11-30 15:20:42,583 - INFO - Response sent: May I know your name, email, and phone number, please? 
+2023-11-30 15:20:47,605 - INFO - Session ID: 7d4fcec3-890a-4404-8ee4-b8d3eba3a2fc, Conversation Stage: ('1', 1166, 0.03501)
+2023-11-30 15:20:51,214 - INFO - Total cost 0.4027799999999999
+2023-11-30 15:20:51,214 - INFO - Total tokens 13253
+2023-11-30 15:20:51,214 - INFO - Total tokens 13253
+2023-11-30 15:20:51,214 - INFO - User nku queried: r u free
+2023-11-30 15:20:51,214 - INFO - Response sent: Yes, I am available. But before we proceed, could you please share your name, email, and phone number? 
+2023-11-30 15:20:54,596 - INFO - Session ID: 26dd8cfe-6ef1-4024-be4b-a5e889b079e2, Conversation Stage: ('2', 1090, 0.032729999999999995)
+2023-11-30 15:20:57,976 - INFO - Total cost 0.4618499999999999
+2023-11-30 15:20:57,977 - INFO - Total tokens 15196
+2023-11-30 15:20:57,977 - INFO - Total tokens 15196
+2023-11-30 15:20:57,977 - INFO - User nku queried: How are you?
+2023-11-30 15:20:57,977 - INFO - Response sent: I'm doing well, thank you. May I know what brings you to Smart Glass Country today? 
+2023-11-30 15:21:02,279 - INFO - Session ID: 8aaf8725-7678-424b-b04c-3d6f5e18f495, Conversation Stage: ('2', 1119, 0.0336)
+2023-11-30 15:21:04,594 - INFO - Total cost 0.5226
+2023-11-30 15:21:04,594 - INFO - Total tokens 17195
+2023-11-30 15:21:04,595 - INFO - Total tokens 17195
+2023-11-30 15:21:04,595 - INFO - User nku queried: who are you?
+2023-11-30 15:21:04,595 - INFO - Response sent: I am David, a Smart Glass representative from Smart Glass Country. How can I help you today? 
+2023-11-30 15:21:28,213 - INFO - Session ID: 8aaf8725-7678-424b-b04c-3d6f5e18f495, Conversation Stage: ('3', 1153, 0.03461999999999999)
+2023-11-30 15:21:33,615 - INFO - Total cost 0.58575
+2023-11-30 15:21:33,615 - INFO - Total tokens 19249
+2023-11-30 15:21:33,615 - INFO - Total tokens 19249
+2023-11-30 15:21:33,615 - INFO - User nku queried: What you can do?
+2023-11-30 15:21:33,615 - INFO - Response sent: I can provide information and guidance about our Smart Glass and Smart Film products. Before we proceed, I would like to request your permission to ask a few questions. This will enable me to provide you with the most accurate information. 

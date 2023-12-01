@@ -1,0 +1,10 @@
+# Below are the Conversation stages, modified according to client requirements
+PROJECT_INFO_CONVERSATION_STAGES = {
+        "1": "Project Information Gathering:<strictly follow this> Always Introduce yourself to prospect then Ask the prospect if you could specify your preference between smart glass and smart film. By asking questions like Are you interested in smart glass or smart film? After this compulsory move to conversation stage 2",
+        "2": "Glass Installation: No matter what the user chooses in conversation, in stage 1, you need to ask, Is glass already installed? Do not give a price.",
+        "3": "Project Size:<strictly follow this> <strictly follow this> Ask the prospect about the details of the project, like, What areas are you planning to implement this in? Also, ask about the dimensions in square feet.<After this conversation strictly move into the next conversation>",
+        "4":"Dimension Unit Inquiry:<strictly follow this>Always inquire from the prospect about the unit of measurement for the dimensions they've provided. If the unit is not specified, ask them to clarify whether it's in feet or meters. Once you have the unit, convert the dimensions to square feet.",
+        "5": "Calculate price:<strictly follow this> Calculate the price estimation of the selected product in stage 2. than ask this question <On a scale from 1(extremely low) to 10(extremely high), how would you rate the price range?>",
+        "6": "Inquire about the project timeline:<strictly follow this> How long have they been looking for a solution? What is motivating them to take action now?",
+        "7": "Action points and Close:<strictly follow this> What are the steps you need to make to decide if you're going to proceed or not? What would you like me to do know? after receiving the response from prospect politely say thank you and close the conversation"
+}

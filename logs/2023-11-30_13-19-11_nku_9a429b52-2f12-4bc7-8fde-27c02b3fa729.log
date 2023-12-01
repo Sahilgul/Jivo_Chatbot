@@ -1,0 +1,19 @@
+2023-11-30 13:19:14,997 - INFO - Session created: 9a429b52-2f12-4bc7-8fde-27c02b3fa729
+2023-11-30 13:19:45,816 - INFO - Session ID: 9a429b52-2f12-4bc7-8fde-27c02b3fa729, Conversation Stage: ('1', 1062, 0.031889999999999995)
+2023-11-30 13:19:48,012 - INFO - Total cost 0.05486999999999999
+2023-11-30 13:19:48,012 - INFO - Total tokens 1809
+2023-11-30 13:19:48,012 - INFO - Total tokens 1809
+2023-11-30 13:19:48,012 - INFO - User nku queried: Hi
+2023-11-30 13:19:48,012 - INFO - Response sent: May I know your name, email, and phone number, please? 
+2023-11-30 15:12:46,479 - INFO - Session ID: 9a429b52-2f12-4bc7-8fde-27c02b3fa729, Conversation Stage: ('1', 1092, 0.03278999999999999)
+2023-11-30 15:12:48,669 - INFO - Total cost 0.11219999999999998
+2023-11-30 15:12:48,669 - INFO - Total tokens 3688
+2023-11-30 15:12:48,670 - INFO - Total tokens 3688
+2023-11-30 15:12:48,670 - INFO - User nku queried: what is your name?
+2023-11-30 15:12:48,670 - INFO - Response sent: My name is David, a sales executive from Smart Glass Country. Could you please share your name, email, and phone number? 
+2023-11-30 15:13:32,567 - INFO - Session ID: 9a429b52-2f12-4bc7-8fde-27c02b3fa729, Conversation Stage: ('1', 1140, 0.03423)
+2023-11-30 15:13:36,653 - INFO - Total cost 0.17237999999999998
+2023-11-30 15:13:36,654 - INFO - Total tokens 5662
+2023-11-30 15:13:36,654 - INFO - Total tokens 5662
+2023-11-30 15:13:36,654 - INFO - User nku queried: why should i share my name or email or phone no?
+2023-11-30 15:13:36,654 - INFO - Response sent: I understand your concern. Sharing your contact information will help us to provide you with the best service and follow-up on your queries. 

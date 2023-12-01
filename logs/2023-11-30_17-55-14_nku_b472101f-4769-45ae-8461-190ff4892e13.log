@@ -1,0 +1,39 @@
+2023-11-30 17:55:49,489 - INFO - Session created: b472101f-4769-45ae-8461-190ff4892e13
+2023-11-30 17:55:49,502 - INFO - Session created: a5763685-b83e-4514-8776-f2b40f444927
+2023-11-30 17:56:00,226 - INFO - Session created: 385ca9f4-dfe3-427f-9d5f-7bc8959ca2d5
+2023-11-30 17:56:10,076 - INFO - Session ID: 385ca9f4-dfe3-427f-9d5f-7bc8959ca2d5, Conversation Stage: ('1', 1062, 0.031889999999999995)
+2023-11-30 17:56:12,533 - INFO - Total cost 0.05486999999999999
+2023-11-30 17:56:12,533 - INFO - Total tokens 1809
+2023-11-30 17:56:12,533 - INFO - Total tokens 1809
+2023-11-30 17:56:12,533 - INFO - User nku queried: Hi
+2023-11-30 17:56:12,533 - INFO - Response sent: May I know your name, email, and phone number, please? 
+2023-11-30 17:56:29,425 - INFO - Session ID: 385ca9f4-dfe3-427f-9d5f-7bc8959ca2d5, Conversation Stage: ('1', 1095, 0.03288)
+2023-11-30 17:56:33,451 - INFO - Total cost 0.11249999999999999
+2023-11-30 17:56:33,452 - INFO - Total tokens 3696
+2023-11-30 17:56:33,452 - INFO - Total tokens 3696
+2023-11-30 17:56:33,452 - INFO - User nku queried: why you want to know my name?
+2023-11-30 17:56:33,452 - INFO - Response sent: I apologize for any confusion. As a representative of Smart Glass Country, I need your details to provide you with the best service and information. 
+2023-11-30 18:19:49,804 - INFO - Session ID: b472101f-4769-45ae-8461-190ff4892e13, Conversation Stage: ('1', 1062, 0.031889999999999995)
+2023-11-30 18:19:52,894 - INFO - Total cost 0.16760999999999998
+2023-11-30 18:19:52,894 - INFO - Total tokens 5509
+2023-11-30 18:19:52,895 - INFO - Total tokens 5509
+2023-11-30 18:19:52,895 - INFO - User nku queried: hello
+2023-11-30 18:19:52,895 - INFO - Response sent: Hello, could you please share your name, email, and phone number for our records? 
+2023-11-30 18:20:05,266 - INFO - Session ID: b472101f-4769-45ae-8461-190ff4892e13, Conversation Stage: ('2', 1097, 0.03294)
+2023-11-30 18:20:08,672 - INFO - Total cost 0.22712999999999997
+2023-11-30 18:20:08,672 - INFO - Total tokens 7466
+2023-11-30 18:20:08,672 - INFO - Total tokens 7466
+2023-11-30 18:20:08,672 - INFO - User nku queried: this farrukh
+2023-11-30 18:20:08,672 - INFO - Response sent: Nice to meet you, Farrukh. Could you please provide your email and phone number as well? 
+2023-11-30 18:20:23,875 - INFO - Session ID: b472101f-4769-45ae-8461-190ff4892e13, Conversation Stage: ('2', 1143, 0.034319999999999996)
+2023-11-30 18:20:25,823 - INFO - Total cost 0.28901999999999994
+2023-11-30 18:20:25,823 - INFO - Total tokens 9508
+2023-11-30 18:20:25,823 - INFO - Total tokens 9508
+2023-11-30 18:20:25,823 - INFO - User nku queried: farrukh.shahzad@nkutechnologies.com
+2023-11-30 18:20:25,823 - INFO - Response sent: Thank you, Farrukh. Could you also share your phone number? 
+2023-11-30 18:20:53,959 - INFO - Session ID: b472101f-4769-45ae-8461-190ff4892e13, Conversation Stage: ('2', 1174, 0.03525)
+2023-11-30 18:20:57,768 - INFO - Total cost 0.35546999999999995
+2023-11-30 18:20:57,768 - INFO - Total tokens 11656
+2023-11-30 18:20:57,768 - INFO - Total tokens 11656
+2023-11-30 18:20:57,768 - INFO - User nku queried: 03336014302
+2023-11-30 18:20:57,768 - INFO - Response sent: Thank you for sharing your details, Farrukh. We have been in business for over 10 years and our product was installed in big companies like Boeing, Scotiabank, Verizon, Siemens in stadiums, schools, offices, hospitals and residences. Now, what inspired you to contact us today? 

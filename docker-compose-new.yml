@@ -1,0 +1,18 @@
+version: '3'
+services:
+  app:
+    image: 093105155811.dkr.ecr.us-east-1.amazonaws.com/salesbot-repo:latest
+    ports:
+      - "8000:8000"
+    command: 'uvicorn main:app --host="0.0.0.0" --port=8000'
+    restart: always
+    env_file: .env
+    logging:
+      driver: awslogs
+      options:
+        awslogs-group: "Salesbot-app-log-group"
+        awslogs-region: "us-east-1"
+        #        awslogs-stream-prefix: "salesbot-app-log-stream"
+    volumes:
+      - ./logs:/app/logs
+

@@ -1,0 +1,7 @@
+2023-12-01 12:20:52,429 - INFO - Session created: d5463170-c3ab-4550-92f3-ed236bc73232
+2023-12-01 12:20:57,205 - INFO - Session ID: d5463170-c3ab-4550-92f3-ed236bc73232, Conversation Stage: ('1', 1062, 0.031889999999999995)
+2023-12-01 12:20:59,697 - INFO - Total cost 0.05486999999999999
+2023-12-01 12:20:59,697 - INFO - Total tokens 1809
+2023-12-01 12:20:59,697 - INFO - Total tokens 1809
+2023-12-01 12:20:59,697 - INFO - User nku queried: Hi
+2023-12-01 12:20:59,697 - INFO - Response sent: May I know your name, email, and phone number, please? 
